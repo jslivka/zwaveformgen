@@ -1,0 +1,12 @@
+zig-out/
+.zig-cache/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.wav
+*.flac
+*.png
+*.json
